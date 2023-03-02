@@ -1,0 +1,88 @@
+
+								<span class="pciColorTabListItem" style="background-color: transparent"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 0 ); return false;">(Not Applicable)</a> (24)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #212121"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 11 ); return false;">Black</a> (8417)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #0057A6"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 7 ); return false;">Blue</a> (6462)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #10CB31"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 36 ); return false;">Bright Green</a> (3576)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #FFC700"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 110 ); return false;">Bright Light Orange</a> (983)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #FFF08C"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 103 ); return false;">Bright Light Yellow</a> (1176)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #F7BCDA"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 104 ); return false;">Bright Pink</a> (6371)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #6B3F22"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 8 ); return false;">Brown</a> (117)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #009FE0"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 153 ); return false;">Dark Azure</a> (4)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #243757"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 63 ); return false;">Dark Blue</a> (1713)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #595D60"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 85 ); return false;">Dark Bluish Gray</a> (5697)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #50372F"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 120 ); return false;">Dark Brown</a> (1166)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #6B5A5A"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 10 ); return false;">Dark Gray</a> (899)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #B35408"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 68 ); return false;">Dark Orange</a> (1723)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #EF5BB3"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 47 ); return false;">Dark Pink</a> (1831)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #5F2683"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 89 ); return false;">Dark Purple</a> (5283)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #6A0E15"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 59 ); return false;">Dark Red</a> (1514)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #B89869"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 69 ); return false;">Dark Tan</a> (850)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #00A29F"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 39 ); return false;">Dark Turquoise</a> (1295)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #00923D"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 6 ); return false;">Green</a> (5071)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #CFEFEA"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 152 ); return false;">Light Aqua</a> (463)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #AFB5C7"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 86 ); return false;">Light Bluish Gray</a> (6971)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #9C9C9C"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 9 ); return false;">Light Gray</a> (1387)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #D7EED1"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 38 ); return false;">Light Green</a> (14)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #ECEEBD"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 35 ); return false;">Light Lime</a> (3)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #F2D3D1"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 56 ); return false;">Light Pink</a> (4)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #FEE89F"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 33 ); return false;">Light Yellow</a> (1)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #C4E000"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 34 ); return false;">Lime</a> (6601)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #7DC1D8"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 72 ); return false;">Maersk Blue</a> (16)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #B72276"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 71 ); return false;">Magenta</a> (1340)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #6ACEE0"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 156 ); return false;">Medium Azure</a> (3543)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #C689D9"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 157 ); return false;">Medium Lavender</a> (137)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #DFE000"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 76 ); return false;">Medium Lime</a> (5)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #E3A05B"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 150 ); return false;">Medium Nougat</a> (3784)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #DBF355"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 166 ); return false;">Neon Green</a> (4)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #FA5947"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 165 ); return false;">Neon Orange</a> (2)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #FFAF7D"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 28 ); return false;">Nougat</a> (138)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #ABA953"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 155 ); return false;">Olive Green</a> (2692)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #FF7E14"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 4 ); return false;">Orange</a> (5902)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #F5CDD6"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 23 ); return false;">Pink</a> (58)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #7A238D"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 24 ); return false;">Purple</a> (30)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #B30006"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 5 ); return false;">Red</a> (8724)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #82422A"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 88 ); return false;">Reddish Brown</a> (6611)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #8899AB"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 55 ); return false;">Sand Blue</a> (894)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #A2BFA3"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 48 ); return false;">Sand Green</a> (323)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #8AD4E1"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 87 ); return false;">Sky Blue</a> (1)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #EED9A4"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 2 ); return false;">Tan</a> (5945)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #3448A4"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 43 ); return false;">Violet</a> (2)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #FFFFFF"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 1 ); return false;">White</a> (8027)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #FFE001"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 3 ); return false;">Yellow</a> (6941)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #E7F2A7"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 158 ); return false;">Yellowish Green</a> (3878)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #B7C8BF"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 113 ); return false;">Trans-Aqua</a> (6)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #939484"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 13 ); return false;">Trans-Black</a> (79)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #10CB31"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 108 ); return false;">Trans-Bright Green</a> (5021)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #EEEEEE"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 12 ); return false;">Trans-Clear</a> (6924)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #00296B"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 14 ); return false;">Trans-Dark Blue</a> (4374)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #CE1D9B"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 50 ); return false;">Trans-Dark Pink</a> (5193)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #217625"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 20 ); return false;">Trans-Green</a> (6004)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #68BCC5"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 15 ); return false;">Trans-Light Blue</a> (5968)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #71EB54"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 226 ); return false;">Trans-Light Bright Green</a> (19)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #94E5AB"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 221 ); return false;">Trans-Light Green</a> (18)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #E99A3A"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 164 ); return false;">Trans-Light Orange</a> (124)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #76A3C8"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 74 ); return false;">Trans-Medium Blue</a> (335)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #C0F500"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 16 ); return false;">Trans-Neon Green</a> (5529)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #FF4231"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 18 ); return false;">Trans-Neon Orange</a> (4856)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #FFD700"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 121 ); return false;">Trans-Neon Yellow</a> (68)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #E96F01"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 98 ); return false;">Trans-Orange</a> (7792)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #FF8298"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 107 ); return false;">Trans-Pink</a> (71)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #5525B7"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 51 ); return false;">Trans-Purple</a> (4185)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #9C0010"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 17 ); return false;">Trans-Red</a> (11571)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #EBF72D"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 19 ); return false;">Trans-Yellow</a> (8455)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #645A4C"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 57 ); return false;">Chrome Antique Brass</a> (43)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #544E4F"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 122 ); return false;">Chrome Black</a> (2)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #F1F2E1"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 21 ); return false;">Chrome Gold</a> (114)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #DCDCDC"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 22 ); return false;">Chrome Silver</a> (73)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #AD7118"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 81 ); return false;">Flat Dark Gold</a> (329)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #8D949C"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 95 ); return false;">Flat Silver</a> (8165)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #282725"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 244 ); return false;">Pearl Black</a> (1)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #666660"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 77 ); return false;">Pearl Dark Gray</a> (3510)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #E79E1D"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 115 ); return false;">Pearl Gold</a> (8598)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #E7AE5A"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 61 ); return false;">Pearl Light Gold</a> (93)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #ACB7C0"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 66 ); return false;">Pearl Light Gray</a> (193)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #FFFFFF"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 228 ); return false;">Satin Trans-Clear</a> (4)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #B8860B"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 65 ); return false;">Metallic Gold</a> (104)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #C0C0C0"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 67 ); return false;">Metallic Silver</a> (4078)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #D4D5C9"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 46 ); return false;">Glow In Dark Opaque</a> (85)</span><br>
+								<span class="pciColorTabListItem" style="background-color: #D9D9D9"></span>&nbsp;<span><a href="#" onclick="showInventoryWithColor( 159 ); return false;">Glow In Dark White</a> (797)</span><br>
